@@ -23,6 +23,8 @@
 
 - 💼 **Finance and audit professional since 2018** in Saudi government healthcare: auditing payment files, preparing financial claims and following procurement payments on the **Etimad** platform.
 - 🎓 **Higher Diploma in Artificial Intelligence**, Gulf Colleges.
+- 🎓 **Diploma in Governance**, King Khalid University.
+- 🎓 **B.Sc. in Management Information Systems**, Taif University.
 - 🧠 I combine **accounting judgment** with **AI engineering**: I know where the errors hide in a payment file, and I build systems that find them.
 - 🎯 Focus: **AI for financial audit, compliance and public spending**.
 
